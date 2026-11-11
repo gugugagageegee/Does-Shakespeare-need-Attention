@@ -1,0 +1,2 @@
+Model,Parameters,Best Iteration,Best Validation Loss,Test Loss,Test Perplexity
+MiniGPT,420929,2000,1.8499236941337585,1.8998794997282868,6.685088838721028
